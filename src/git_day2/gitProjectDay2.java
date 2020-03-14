@@ -7,6 +7,7 @@ public class gitProjectDay2 {
 System.out.println("merhaba");
 System.out.println("napiyorsun?");
 System.out.println("check if your local is ahead of origin master");
+System.out.println("commit 7");
 	}
 
 }
