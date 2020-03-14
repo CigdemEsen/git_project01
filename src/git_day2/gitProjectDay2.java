@@ -6,6 +6,7 @@ public class gitProjectDay2 {
 		// TODO Auto-generated method stub
 System.out.println("merhaba");
 System.out.println("napiyorsun?");
+System.out.println("check if your local is ahead of origin master");
 	}
 
 }
