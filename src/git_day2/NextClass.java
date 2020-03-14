@@ -6,8 +6,11 @@ public class NextClass {
 		
 		
 	System.out.println("Hello world");	
-	System.out.println("hello dear Testers");	
+
 		
+
+	System.out.println("hello dear SDETS");	
+
 		
 	}
 
